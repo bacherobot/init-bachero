@@ -1,3 +1,6 @@
+> ⚠️ Ce CLI s'est arrêté lors de sa phase de développement, son code source est archivé depuis le 06/12/2022 mais devrait rester utilisable.
+
+
 # `npx init-bachero`
 
 Un CLI visant à faciliter le téléchargement, l'installation et la configuration d'une instance Bachero sur votre appareil.
